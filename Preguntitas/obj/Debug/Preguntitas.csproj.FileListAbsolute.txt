@@ -1,0 +1,8 @@
+C:\Users\Axel Portillo\Desktop\.NET\Preguntitas\Preguntitas\bin\Debug\Preguntitas.exe.config
+C:\Users\Axel Portillo\Desktop\.NET\Preguntitas\Preguntitas\bin\Debug\Preguntitas.exe
+C:\Users\Axel Portillo\Desktop\.NET\Preguntitas\Preguntitas\bin\Debug\Preguntitas.pdb
+C:\Users\Axel Portillo\Desktop\.NET\Preguntitas\Preguntitas\obj\Debug\Preguntitas.csproj.AssemblyReference.cache
+C:\Users\Axel Portillo\Desktop\.NET\Preguntitas\Preguntitas\obj\Debug\Preguntitas.csproj.SuggestedBindingRedirects.cache
+C:\Users\Axel Portillo\Desktop\.NET\Preguntitas\Preguntitas\obj\Debug\Preguntitas.csproj.CoreCompileInputs.cache
+C:\Users\Axel Portillo\Desktop\.NET\Preguntitas\Preguntitas\obj\Debug\Preguntitas.exe
+C:\Users\Axel Portillo\Desktop\.NET\Preguntitas\Preguntitas\obj\Debug\Preguntitas.pdb
